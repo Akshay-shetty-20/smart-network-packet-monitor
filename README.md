@@ -12,6 +12,6 @@ I am building a network monitoring project using ESP32 and Python.
 ## Progress
 - [x] Created the project folder.
 - [x] Created the README file.
-- [ ] Print a message from the ESP32.
-- [ ] Connect the ESP32 to Wi-Fi.
-- [ ] Send test messages to my computer.
+- [x] Print a message from the ESP32.
+- [x] Connect the ESP32 to Wi-Fi.
+- [x] Send test messages to my computer.
